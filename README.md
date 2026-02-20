@@ -1,6 +1,8 @@
 # documents
-resume and documents
+
 Jacob Colvin
+
+resume and documents
 
 - [Resume](<Jacob Colvin.pdf>)
 - [Causal Inference Do Calculus Example](causal_inference_do_calculus_example.pdf)
